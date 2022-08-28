@@ -1,0 +1,111 @@
+#Title {
+    text-align: center;
+}
+
+.chh {
+    color: gray;
+}
+
+#salinitybody {
+    background-color: blue;
+}
+
+#mainbody {
+    background-color:rgba(102, 220, 102, 0.715);
+}
+
+.body {
+    margin: 2.54cm;
+}
+
+#aquiferbody {
+    background-color:rgba(102, 183, 220, 0.715);
+}
+
+#IWSLC {
+    height: 500px;
+}
+
+#IWSLF {
+    height: 500px;
+}
+
+.letter {
+    font-style: oblique;
+    font-size: 15px;
+}
+
+#it {
+    font-style: italic;
+}
+
+#ii{
+    background-color: aqua;
+    text-decoration-color: blue;
+}
+
+#mov{
+    height: 200px;
+    width: 150;
+}
+
+.para {
+    color: black;
+    font-size: 17px;
+}
+
+.info {
+    font-size: 17px;
+}
+
+#aquicludebody {
+    background-color: rgb(0, 191, 255);
+}
+
+#atmospherebody {
+    background-color: rgba(0, 0, 255, 0.653);
+}
+
+#cloudseedingbody {
+    background-color: rgb(56, 182, 255);
+}
+
+#climategraphbody{
+    background-color: rgb(102, 222, 174);
+}
+
+#closedcyclebody {
+    background-color: khaki;
+}
+
+#watercyclebody, #condensationbody, #evaporationbody, #precipitationbody, #runoffbody, #transpirationbody {
+    background-color: rgb(145, 169, 253);
+}
+
+#gasbody, #solidbody, #liquidbody {
+    background-color: rgb(56, 255, 69);
+}
+
+#groundwatermovementbody {
+    background-color: rgb(58, 50, 50);
+}
+
+#winfo {
+    color: white;
+}
+
+#infiltrationbody {
+    background-color: rgb(188, 88, 245);
+}
+
+#waterdistributionbody {
+    background-color: lightsalmon;
+}
+
+#waterpollutionbody {
+    background-color:salmon;
+}
+
+#weathervsclimatebody {
+    background-color: yellow;
+}
